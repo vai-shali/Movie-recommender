@@ -6,13 +6,15 @@ Python 3.9.13
 
 ### Steps to execute:
 Run the following commands on command prompt terminal<br>
-(after python is installed)
+(after python is installed)<br>
+Make sure to enter into the movie-recommender-master directory on command prompt(using cd) for the following steps
 - **Creating and entering into virtual environment**
     - ```pip install virtualenv```
     - ```python -m virtualenv myvenv```
     - ```myvenv\Scripts\activate.bat```<br>
 - **Installing streamlit**
     - ```pip install streamlit```<br>
+    **IMP: close the text editor and open it again (for streamlit installation to be effective)**
 - **Execution**
     - ```streamlit run app.py```
 
