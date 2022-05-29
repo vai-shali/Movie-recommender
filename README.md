@@ -6,9 +6,11 @@ Python 3.9.13
 
 ### Steps to execute:
 Run the following commands (after python is installed)
-1) ```myvenv\Scripts\activate.bat```
-2) ```pip install streamlit```
-3) ```streamlit run app.py```
+1) ```pip install virtualenv```
+2) ```python -m virtualenv myvenv```
+4) ```myvenv\Scripts\activate.bat```
+5) ```pip install streamlit```
+6) ```streamlit run app.py```
 
 ## How it works
 - A movie is typed into the input box as shown in the output screenshot.
