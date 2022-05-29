@@ -1,8 +1,11 @@
 # movie-recommender
 This project demonstrates the use of basic algorithms in movie recommendation systems.
 
-Steps to execute:
-Run the following commands
+## Requirements
+Python 3.9.13
+
+### Steps to execute:
+Run the following commands (after python is installed)
 1) ```myvenv\Scripts\activate.bat```
 2) ```pip install streamlit```
 3) ```streamlit run app.py```
