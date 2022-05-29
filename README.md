@@ -15,7 +15,8 @@ Make sure to enter into the movie-recommender-master directory on command prompt
 - **Installing streamlit**
     - ```pip install streamlit```<br>
     **IMP: close the text editor and open it again (for streamlit installation to be effective)**
-- **Execution**
+- **Execution**<br>
+    On a new cmd terminal run
     - ```streamlit run app.py```
 
 ## How it works
