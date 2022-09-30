@@ -40,16 +40,3 @@ Make sure to enter into the movie-recommender-master directory on command prompt
 2. posterdb- dataset containing movies titles and their poster image urls
 
 
-## Output
-
-### Starting window(before input)
-
-![MSimg1](https://user-images.githubusercontent.com/79700331/170872022-498e7ee5-a472-4658-83ef-ee23b24b5270.jpg)
-
-### After show recommendations button clicked
-
-![MSimg2](https://user-images.githubusercontent.com/79700331/170872159-b58bbfd3-44d2-4ff2-99dd-43626a9f35c5.jpg)
-
-![MSimg3](https://user-images.githubusercontent.com/79700331/170872177-103618c5-dadd-4d79-8790-d48dacbb51c1.jpg)
-
-
